@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "devServerConfig": {
+      "type": "string",
+      "description": "Dev server configuration file."
+    }
+  }
+}
